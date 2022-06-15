@@ -1,0 +1,6 @@
+.vs*
+/Backup/*
+/build/*
+obj/
+bin/
+db/
